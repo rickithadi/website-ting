@@ -1,5 +1,5 @@
 baseurl = https://rickithadi.github.io/rickithadi/""
-theme = "hugo-geo"
+theme = "minimal"
 
 relativeURLs = false
 languageCode = "en-us"
