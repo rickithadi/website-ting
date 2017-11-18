@@ -1,4 +1,4 @@
-baseurl = "https://rickithadi.github.io/rickithadi/"
+baseurl = https://rickithadi.github.io/rickithadi/""
 theme = "hugo-geo"
 
 relativeURLs = false
