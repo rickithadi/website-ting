@@ -42,15 +42,15 @@ paginate = 5
 	faicon = "linkedin"
 	url = "https://linkedin.com"
 	[[params.socialbuttons]]
-	faicon = "google-plus"
-	url = "https://plus.google.com/rickithadi"
+	faicon = "youtube"
+	url = "https://youtube.com"
 
 
 	[[params.navlinks]]
 	name = "About"
 	url = "about"
-	
-	[[params.navlinks]]
+
+[[params.navlinks]]
 	name = "Blog"
 	url = ""
 	
