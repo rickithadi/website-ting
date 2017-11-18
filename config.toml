@@ -1,8 +1,15 @@
-baseurl = "http://example.com/"
+baseurl = "http://rickithadi.github.io/"
 theme = "hugo-geo"
+<<<<<<< HEAD
 relativeURLs = false
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "My Site"
+=======
+
+relativeURLs = false
+languageCode = "en-us"
+title = "~~"
+>>>>>>> 2e61028055bfd846552a72f7738211e5c3b5f2b8
 disqusShortname = "shortcode-here"
 paginate = 5
 
@@ -19,10 +26,17 @@ paginate = 5
 
 	email = "rickithadi@gmail.com"
 
+<<<<<<< HEAD
 	profilepic = "img/randy.jpg"
 	
 	title = "Hadi Rickit"
 	subtitle = "stuff"
+=======
+	profilepic = "img/profile.png"
+	
+	title = "Hadi Rickit"
+	subtitle = "a blog thing"
+>>>>>>> 2e61028055bfd846552a72f7738211e5c3b5f2b8
 
 	# Social buttons for sidebar
 	# Each of these are optional
@@ -37,7 +51,11 @@ paginate = 5
 	url = "https://linkedin.com"
 	[[params.socialbuttons]]
 	faicon = "google-plus"
+<<<<<<< HEAD
 	url = "https://plus.google.com/+YourID"
+=======
+	url = "https://plus.google.com/rickithadi"
+>>>>>>> 2e61028055bfd846552a72f7738211e5c3b5f2b8
 
 	[[params.navlinks]]
 	name = "About"
@@ -48,5 +66,9 @@ paginate = 5
 	url = ""
 	
 	[[params.navlinks]]
+<<<<<<< HEAD
 	name = "Tutorials"
+=======
+	name = "media??"
+>>>>>>> 2e61028055bfd846552a72f7738211e5c3b5f2b8
 	url = "tutorial/"
