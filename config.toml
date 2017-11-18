@@ -1,12 +1,12 @@
-baseurl = "http://rickithadi.github.io/"
+baseurl = "https://rickithadi.github.io/rickithadi/"
 theme = "hugo-geo"
 
 relativeURLs = false
 languageCode = "en-us"
 title = "My Site"
-relativeURLs = false
-languageCode = "en-us"
-title = "website thing"
+
+
+
 
 disqusShortname = "shortcode-here"
 paginate = 5
@@ -29,11 +29,9 @@ paginate = 5
 	
 	title = "Hadi Rickit"
 	subtitle = "stuff"
-	profilepic = "img/profile.png"
+
 	
-	title = "Hadi Rickit"
-	subtitle = "a blog thing"
->>>>>>> 2e61028055bfd846552a72f7738211e5c3b5f2b8
+
 
 	# Social buttons for sidebar
 	# Each of these are optional
@@ -48,11 +46,8 @@ paginate = 5
 	url = "https://linkedin.com"
 	[[params.socialbuttons]]
 	faicon = "google-plus"
-<<<<<<< HEAD
-	url = "https://plus.google.com/+YourID"
-=======
 	url = "https://plus.google.com/rickithadi"
->>>>>>> 2e61028055bfd846552a72f7738211e5c3b5f2b8
+
 
 	[[params.navlinks]]
 	name = "About"
@@ -63,9 +58,6 @@ paginate = 5
 	url = ""
 	
 	[[params.navlinks]]
-<<<<<<< HEAD
-	name = "Tutorials"
-=======
-	name = "media??"
->>>>>>> 2e61028055bfd846552a72f7738211e5c3b5f2b8
+name = "media??"
+
 	url = "tutorial/"
