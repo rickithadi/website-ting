@@ -1,15 +1,13 @@
 baseurl = "http://rickithadi.github.io/"
 theme = "hugo-geo"
-<<<<<<< HEAD
-relativeURLs = false
-languageCode = "en-us"
-title = "My Site"
-=======
 
 relativeURLs = false
 languageCode = "en-us"
-title = "~~"
->>>>>>> 2e61028055bfd846552a72f7738211e5c3b5f2b8
+title = "My Site"
+relativeURLs = false
+languageCode = "en-us"
+title = "website thing"
+
 disqusShortname = "shortcode-here"
 paginate = 5
 
@@ -26,12 +24,11 @@ paginate = 5
 
 	email = "rickithadi@gmail.com"
 
-<<<<<<< HEAD
+
 	profilepic = "img/randy.jpg"
 	
 	title = "Hadi Rickit"
 	subtitle = "stuff"
-=======
 	profilepic = "img/profile.png"
 	
 	title = "Hadi Rickit"
