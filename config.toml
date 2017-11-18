@@ -5,9 +5,6 @@ relativeURLs = false
 languageCode = "en-us"
 title = "My Site"
 
-
-
-
 disqusShortname = "shortcode-here"
 paginate = 5
 
@@ -30,7 +27,7 @@ paginate = 5
 	title = "Hadi Rickit"
 	subtitle = "stuff"
 
-	
+
 
 
 	# Social buttons for sidebar
