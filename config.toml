@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "https://rickithadi.github.io/rickithadi/"
 
 languageCode = "en-us"
 title = "Hugo Cactus Theme"
@@ -10,12 +10,12 @@ googleAnalytics = ""
 disqusShortname = "spf13"
 
 [params]
-	name = "John Doe"
-	description = "Describe your website"
-	bio = "Blogger & Programmer"
+	name = "Hadi Rickit"
+	description = "website thing"
+	bio = "human"
 	# Enter optionally your twitter account
-	twitter = "Your Twitter account"
-	enableRSS = true
+	# twitter = "Your Twitter account"
+	enableRSS = false
 
 	# Integrate Javascript files or stylesheets by adding the url to the external assets or by
 	# linking local files with their path relative to the static folder, e.g. "css/styles.css"
@@ -26,7 +26,7 @@ disqusShortname = "spf13"
 	# translate or customize each string of the theme.
 
 	# Navigation links
-	home = ""
+	home = "/about"
 	subscribe = ""
 	# Pagination links
 	olderPosts = ""
@@ -34,7 +34,7 @@ disqusShortname = "spf13"
 	readMore = ""
 	copyright = ""
 	# Sharing options and author information in posts
-	aboutAuthor = "I'm an blogger."
+	aboutAuthor = "hi."
 	tweet = ""
 	share = ""
 	# 404 page
@@ -50,5 +50,5 @@ disqusShortname = "spf13"
 [social]
     twitter  = "https://www.twitter.com/"
     facebook = "https://www.facebook.com/"
-    github   = "https://www.github.com/"
-    dribble  = "https://www.dribbble.com/"
+    github   = "https://www.github.com/rickithadi"
+  
