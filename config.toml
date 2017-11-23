@@ -1,60 +1,54 @@
-baseurl ="https://rickithadi.github.io/rickithadi/"
-theme = "hugo-geo"
+# Site settings
+baseurl = "https://example.org/"
 
-relativeURLs = false
 languageCode = "en-us"
-title = "My Site"
-
-disqusShortname = "shortcode-here"
-paginate = 5
-
-[taxonomies]
-	tag = "tags"
-	tutorial = "tutorials"
+title = "Hugo Cactus Theme"
+theme = "hugo-cactus-theme"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+# Disable comments by leaving disqusShortname empty
+disqusShortname = "spf13"
 
 [params]
-	showglobe = true
+	name = "John Doe"
+	description = "Describe your website"
+	bio = "Blogger & Programmer"
+	# Enter optionally your twitter account
+	twitter = "Your Twitter account"
+	enableRSS = true
 
-	favicon = "favicon.ico"
-	
-	analytics = "code-here"
+	# Integrate Javascript files or stylesheets by adding the url to the external assets or by
+	# linking local files with their path relative to the static folder, e.g. "css/styles.css"
+	customCSS = []
+	customJS  = []
 
-	email = "rickithadi@gmail.com"
+	# The variables below are optionally too and can be used to
+	# translate or customize each string of the theme.
 
+	# Navigation links
+	home = ""
+	subscribe = ""
+	# Pagination links
+	olderPosts = ""
+	newerPosts = ""
+	readMore = ""
+	copyright = ""
+	# Sharing options and author information in posts
+	aboutAuthor = "I'm an blogger."
+	tweet = ""
+	share = ""
+	# 404 page
+	title404 = ""
+	subtitle404 = ""
 
-	profilepic = "img/randy.jpg"
-	
-	title = "Hadi Rickit"
-	subtitle = "stuff"
+	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
+	iconFont = "mono-social"
+    # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
+    socialIconStyle = "circle"
 
-
-
-
-	# Social buttons for sidebar
-	# Each of these are optional
-	[[params.socialbuttons]]
-	faicon = "github"
-	url = "https://github.com/rickithadi"
-	[[params.socialbuttons]]
-	faicon = "instagram"
-	url = "https://twitter.com/alexanderurq"
-	[[params.socialbuttons]]
-	faicon = "linkedin"
-	url = "https://linkedin.com"
-	[[params.socialbuttons]]
-	faicon = "youtube"
-	url = "https://youtube.com"
-
-
-	[[params.navlinks]]
-	name = "About"
-	url = "about"
-
-[[params.navlinks]]
-	name = "Blog"
-	url = ""
-	
-	[[params.navlinks]]
-name = "media??"
-
-	url = "tutorial/"
+# Add additional social link entries underneath
+[social]
+    twitter  = "https://www.twitter.com/"
+    facebook = "https://www.facebook.com/"
+    github   = "https://www.github.com/"
+    dribble  = "https://www.dribbble.com/"
