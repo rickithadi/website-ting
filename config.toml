@@ -2,8 +2,8 @@
 baseurl = "https://rickithadi.github.io/rickithadi/"
 
 languageCode = "en-us"
-title = "Hugo Cactus Theme"
-theme = "hugo-cactus-theme"
+title = ""
+theme = "hugo-goa"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
 # Disable comments by leaving disqusShortname empty
